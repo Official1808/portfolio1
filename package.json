@@ -1,0 +1,28 @@
+{
+  "name": "portfolio1",
+  "version": "1.0.0",
+  "description": "Sagar Meena's portfolio website with Vercel Web Analytics",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Official1808/portfolio1.git"
+  },
+  "keywords": [
+    "portfolio",
+    "vercel",
+    "analytics"
+  ],
+  "author": "Sagar Meena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Official1808/portfolio1/issues"
+  },
+  "homepage": "https://github.com/Official1808/portfolio1#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
